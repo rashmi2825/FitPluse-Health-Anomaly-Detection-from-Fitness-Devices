@@ -9,7 +9,7 @@ Objectives:-
 4.Generate a clean, consolidated dataset ready for analysis.
 
 Dataset Source:
-The dataset was sourced from Kaggle and is titled “Fitbit Fitness Tracker Data.”
+The dataset was sourced from Kaggle and is titled “Fitbit Fitness Tracker Data.”(https://www.kaggle.com/datasets/arashnic/fitbit/data)
 Datasets taken:
 - dailyActivity_merged.csv(https://drive.google.com/file/d/1cd2tNwRDfkeZnHjO5g77uadw5-3VSBOv/view?usp=drive_link)
 - heartrate_seconds_merged.csv(https://drive.google.com/file/d/105iw-Nu_eOxcWd3RSsnbxyTE0FDCgUKx/view?usp=drive_link)
