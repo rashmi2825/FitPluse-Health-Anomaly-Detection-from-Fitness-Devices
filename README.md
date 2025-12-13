@@ -14,7 +14,7 @@ Datasets taken:
 - dailyActivity_merged.csv(https://drive.google.com/file/d/1cd2tNwRDfkeZnHjO5g77uadw5-3VSBOv/view?usp=drive_link)
 - heartrate_seconds_merged.csv(https://drive.google.com/file/d/105iw-Nu_eOxcWd3RSsnbxyTE0FDCgUKx/view?usp=drive_link)
 - minuteSleep_merged.csv(https://drive.google.com/file/d/1Bl6iLPV73US5meKGlcW0m1O_0bwBUY0d/view?usp=drive_link)
-- 
+  
 Steps Performed:
 1.	 Uploaded the raw datasets from Google Drive into the Google Colab notebook.
 2.	Selected the necessary columns from the datasets such as heart rate, step count, sleep data, and timestamp.
