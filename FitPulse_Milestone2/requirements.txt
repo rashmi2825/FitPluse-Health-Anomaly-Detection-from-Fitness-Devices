@@ -1,1 +1,7 @@
+pandas
+numpy
+tsfresh
+scikit-learn
+matplotlib
+prophet
 
