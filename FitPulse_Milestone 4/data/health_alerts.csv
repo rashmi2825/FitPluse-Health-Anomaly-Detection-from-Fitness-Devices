@@ -1,0 +1,9 @@
+user_id,metric,count,severity
+2347167796,Abnormal Sleep,2,Low
+4020332650,Abnormal Sleep,1,Low
+4558609924,Abnormal Sleep,1,Low
+5553957443,Abnormal Sleep,2,Low
+6117666160,Abnormal Sleep,1,Low
+6775888955,Abnormal Sleep,1,Low
+6775888955,Behavioral Outlier,4,Medium
+7007744171,Abnormal Sleep,4,Medium
